@@ -1,0 +1,15 @@
+section article{
+    border-color: black;
+    border-width: 10px;
+}
+
+section article p{
+    background:white;
+    color:orangered;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: light;
+    text-align: justify;
+}
+
+
